@@ -1,0 +1,9 @@
+
+CREATE FUNCTION PrintData()
+RETURNS VARCHAR(50)
+AS	
+BEGIN
+RETURN 'Welcom To functions';
+END;
+GO
+SELECT dbo.PrintData();

@@ -1,0 +1,5 @@
+CREATE TABLE Course(
+C_ID INT,
+C_Name VARCHAR(30),
+Id INT PRIMARY KEY
+);

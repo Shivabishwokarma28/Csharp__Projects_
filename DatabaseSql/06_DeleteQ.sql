@@ -1,0 +1,3 @@
+DELETE *
+FROM Student
+WHERE Id BETWEEN 8 AND 11;
